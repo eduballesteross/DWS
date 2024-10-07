@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\balle\Documents\DWS\1ªEvaluación\.metadata\.plugins\org.eclipse.jdt.core
+1836090360.index
+1288848795.index
+1865797976.index
+2572368685.index
